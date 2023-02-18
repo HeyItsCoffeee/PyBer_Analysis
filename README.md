@@ -14,3 +14,4 @@ Omar and I will be analyzing the data to see how each community differes in ride
 Below you will see some of the work we did to get to the results we wanted.
 
 
+<img src="Resources/Total_and_Average_Chart.png" width=400>
