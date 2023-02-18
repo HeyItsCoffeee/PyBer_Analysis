@@ -11,4 +11,6 @@ Omar and I will be analyzing the data to see how each community differes in ride
 
 ## Analysis
 
-Below you will some of the work we did to get to the results we wanted.
+Below you will see some of the work we did to get to the results we wanted.
+
+
