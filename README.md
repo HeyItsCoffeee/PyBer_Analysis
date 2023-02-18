@@ -31,4 +31,4 @@ function. The end results is this multi-line graph that you'll see below which s
 get more into this in the results section of this analysis.
 
 ## Results
-
+<img src="Resources/Multi_line_Graph.png" width=600>
